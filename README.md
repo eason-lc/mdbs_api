@@ -5,8 +5,7 @@
 ## Api接口地址
 - 测试环境：https://www.jybd.cn
 - 开发环境：https://www.jybd.cn
-[锚点][anchor]
-[anchor]:#url-more "anchor alt text"
+
 ## 标准请求
     curl -X POST|GET
     https://www.jybd.cn/<资源路径> /v2/
@@ -57,8 +56,6 @@ Code| 说明  |备注
 
 
 <span id = "index">跳转到这里：</span>
-[锚点](#url-more "anchor alt text")
-
 
 ### **1.登录**
  
